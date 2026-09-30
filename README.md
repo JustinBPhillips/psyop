@@ -8,6 +8,7 @@ Online supplement and materials for:
 ## Repository Contents
 
 - Python and R code; and topic model documents.
+- Also found here: https://osf.io/vmk4h
 
 ## Citation
 
